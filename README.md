@@ -8,9 +8,14 @@
 
 
 # Contact Me
-Email: idiomeo@yeah.net
-微信号(WeChat): idiomeo
- 
+<font color=#fcefe8 size=4>Email: idiomeo@yeah.net </font>  
+<font color=#4b5cc4 size=4>Discord: idiomeocalm   </font>  
+<font color=#70f3ff size=4>QQ号: 3656069254   </font>  
+<font color=#00e500 size=4>微信号: idiomeo    </font>  
+
+
+  
+  
 
 
 

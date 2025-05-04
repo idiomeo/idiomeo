@@ -11,7 +11,6 @@
 <font color=#fcefe8 size=4>Email: idiomeo@yeah.net </font>  
 <font color=#4b5cc4 size=4>Discord: idiomeocalm   </font>  
 <font color=#4c8dae size=4>QQ号: 3656069254   </font>  
-<font color=#0c8918 size=4>微信号: idiomeo    </font>  
 
 
   

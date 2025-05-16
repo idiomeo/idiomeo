@@ -1,16 +1,21 @@
-# Best Like
+# 感谢你的短暂驻足
+我是**愚人猫**，英文网名为**Idiomeo**  
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/idiomeo)
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/idiomeo)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/idiomeo)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-](https://github.com/idiomeo)
+这是我的中文账号，算是我的小号，我会使用这个账号专门用于发布非国际化的，专注于国内社区的内容。
+
+我有一个中文[个人博客网站](https://idiomeo.top),我会在里面发布我最新的计划与动向，以及一些技术感悟。  
+
+同时，我也是[**愚者之旅计划**](https://github.com/The-Fools-Journey)的发起者。  
+
+这就是我简单的自述，感谢你愿意花费宝贵的时间为我驻足。
 
 
-# Contact Me
-<font color=#fcefe8 size=4>Email: idiomeo@yeah.net </font>  
-<font color=#4b5cc4 size=4>Discord: idiomeocalm   </font>  
-<font color=#4c8dae size=4>QQ号: 3656069254   </font>  
+
+
+
+<!-- [![赞助我](https://camo.githubusercontent.com/a37e17a06ba365a97782ce87c3d500b4f281bd00b8197863daaa3c6c5de0c76f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616c697061792d3030413145393f7374796c653d666f722d7468652d6261646765266c6f676f3d616c69706179266c6f676f436f6c6f723d7768697465)
+](https://github.com/idiomeo) -->
+
 
 
   

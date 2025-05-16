@@ -5,7 +5,8 @@
 
 我有一个中文[个人博客网站](https://idiomeo.top),我会在里面发布我最新的计划与动向，以及一些技术感悟。  
 
-同时，我也是[**愚者之旅计划**](https://github.com/The-Fools-Journey)的发起者。  
+
+<!-- 同时，我也是[**愚者之旅计划**](https://github.com/The-Fools-Journey)的发起者。   -->
 
 这就是我简单的自述，感谢你愿意花费宝贵的时间为我驻足。
 

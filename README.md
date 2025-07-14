@@ -2,6 +2,7 @@
 You can call me **Idiomeo**  
 I love everything related to creation—programming, writing, painting...  
 And I yearn to leave traces of my existence in this world forever.  
+I believe that **I commit, therefore I am**,so I am following my commit—— to myself,to someone I promise to.
 This is me: a creator, a pretentious fool, a daydreamer.
 <p/>
 <hr/>
